@@ -1,6 +1,6 @@
 import React from "react";
-import NumberSum from "./components/Main";
-import Main from "./components/Main";
+import NumberSum from "./components/Numbersum";
+import Main from "./components/Numbersum";
 
 function App() {
   return (
